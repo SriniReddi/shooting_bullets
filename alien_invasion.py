@@ -1,3 +1,4 @@
+# Alien Invasion Python program
 import sys
 
 import pygame

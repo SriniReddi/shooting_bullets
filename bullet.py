@@ -1,3 +1,5 @@
+# Bullet Class 
+
 import pygame
 from pygame.sprite import Sprite
  
